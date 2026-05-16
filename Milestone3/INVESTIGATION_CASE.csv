@@ -1,0 +1,61 @@
+Case_ID,Alert_ID,Investigator_ID,Status,Remarks,Case_Opened_Date,Case_Closed_Date
+1,1,13,Open,No fraud detected. Case closed.,2023-06-04,
+2,2,14,Open,Fraud confirmed. Account frozen.,2023-04-14,
+3,3,11,Open,Escalated to senior investigator.,2023-04-25,
+4,4,9,In Progress,Suspicious activity confirmed. Awaiting customer response.,2023-03-01,
+5,5,9,Closed,Suspicious activity confirmed. Awaiting customer response.,2023-06-29,2023-08-27
+6,6,2,In Progress,Customer verified transaction. Alert closed.,2023-01-19,
+7,7,8,In Progress,No fraud detected. Case closed.,2023-07-08,
+8,8,14,Open,Escalated to senior investigator.,2023-05-27,
+9,9,15,Open,Customer verified transaction. Alert closed.,2023-10-28,
+10,10,15,In Progress,Fraud confirmed. Account frozen.,2024-01-14,
+11,11,7,Open,Suspicious activity confirmed. Awaiting customer response.,2024-02-21,
+12,12,9,In Progress,Fraud confirmed. Account frozen.,2024-05-02,
+13,13,7,Open,Suspicious activity confirmed. Awaiting customer response.,2023-06-22,
+14,14,4,In Progress,Suspicious activity confirmed. Awaiting customer response.,2023-08-04,
+15,15,15,In Progress,Suspicious activity confirmed. Awaiting customer response.,2023-02-04,
+16,16,6,Closed,Customer verified transaction. Alert closed.,2023-08-10,2023-09-25
+17,17,1,Open,Fraud confirmed. Account frozen.,2023-01-14,
+18,18,12,In Progress,Customer verified transaction. Alert closed.,2023-04-04,
+19,19,8,Closed,No fraud detected. Case closed.,2023-06-02,2023-07-07
+20,20,15,Open,Suspicious activity confirmed. Awaiting customer response.,2024-04-12,
+21,21,5,Open,Customer verified transaction. Alert closed.,2023-05-04,
+22,22,9,Open,No fraud detected. Case closed.,2023-07-20,
+23,23,2,Closed,Fraud confirmed. Account frozen.,2024-02-03,2024-03-06
+24,24,5,Open,Suspicious activity confirmed. Awaiting customer response.,2024-05-15,
+25,25,4,Open,Escalated to senior investigator.,2023-03-11,
+26,26,10,Closed,Escalated to senior investigator.,2023-06-10,2023-08-04
+27,27,2,Open,Escalated to senior investigator.,2023-10-19,
+28,28,1,Closed,No fraud detected. Case closed.,2023-03-30,2023-05-08
+29,29,12,Closed,Customer verified transaction. Alert closed.,2023-08-16,2023-09-05
+30,30,7,In Progress,Suspicious activity confirmed. Awaiting customer response.,2023-06-19,
+31,31,4,Closed,No fraud detected. Case closed.,2023-07-12,2023-08-08
+32,32,3,In Progress,Suspicious activity confirmed. Awaiting customer response.,2023-03-13,
+33,33,2,Closed,No fraud detected. Case closed.,2023-05-16,2023-06-13
+34,34,13,Closed,No fraud detected. Case closed.,2024-01-03,2024-02-09
+35,35,7,Closed,Escalated to senior investigator.,2023-03-03,2023-03-09
+36,36,11,Open,Escalated to senior investigator.,2024-04-29,
+37,37,5,In Progress,Suspicious activity confirmed. Awaiting customer response.,2023-01-23,
+38,38,13,In Progress,Suspicious activity confirmed. Awaiting customer response.,2024-04-05,
+39,39,4,In Progress,Suspicious activity confirmed. Awaiting customer response.,2023-07-14,
+40,40,13,Closed,Fraud confirmed. Account frozen.,2024-01-16,2024-03-08
+41,41,1,Open,Fraud confirmed. Account frozen.,2023-11-21,
+42,42,14,Closed,Customer verified transaction. Alert closed.,2023-03-01,2023-03-27
+43,43,12,Closed,Escalated to senior investigator.,2023-06-26,2023-07-30
+44,44,13,Closed,Customer verified transaction. Alert closed.,2023-01-10,2023-01-26
+45,45,12,Open,Escalated to senior investigator.,2023-08-29,
+46,46,5,Open,Customer verified transaction. Alert closed.,2024-04-28,
+47,47,13,Open,Customer verified transaction. Alert closed.,2023-02-01,
+48,48,6,Open,Fraud confirmed. Account frozen.,2024-01-21,
+49,49,14,Closed,No fraud detected. Case closed.,2024-04-10,2024-05-10
+50,50,5,In Progress,Suspicious activity confirmed. Awaiting customer response.,2024-05-17,
+51,51,5,Closed,Fraud confirmed. Account frozen.,2023-10-21,2023-11-07
+52,52,14,Open,Fraud confirmed. Account frozen.,2023-06-23,
+53,53,2,In Progress,Fraud confirmed. Account frozen.,2023-02-11,
+54,54,15,In Progress,Escalated to senior investigator.,2023-09-29,
+55,55,15,Closed,Escalated to senior investigator.,2023-04-22,2023-05-25
+56,56,3,In Progress,Escalated to senior investigator.,2023-10-24,
+57,57,6,Closed,No fraud detected. Case closed.,2023-05-19,2023-06-24
+58,58,13,In Progress,Suspicious activity confirmed. Awaiting customer response.,2024-04-13,
+59,59,2,Closed,Escalated to senior investigator.,2023-11-01,2023-12-03
+60,60,3,Closed,No fraud detected. Case closed.,2024-05-25,2024-07-21
