@@ -1,6 +1,6 @@
 # Milestone 2 — Normalization (1NF → 3NF)
 ## Bank Fraud Management System
-**Group Members:** Roshaan Rehman & Sarah Arif  
+**Group Members:**  Roshaan Rehman & Sarah Arif  
 **Version:** V1.1  
 
 ---
