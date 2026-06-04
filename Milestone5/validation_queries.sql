@@ -1,7 +1,7 @@
 USE bank_fraud_db;
 
 -- =====================================
--- VALIDATION QUERY 1: ROW COUNTS
+-- VALIDATION QUERY 1: ROW COUNTS 
 -- =====================================
 
 SELECT 'BRANCH' AS Table_Name, COUNT(*) AS Row_Count FROM BRANCH
