@@ -1,6 +1,6 @@
 # Validation Queries Results
 
-
+ 
 ## Query 1 – Row Counts
 
 | Table              | Rows |
