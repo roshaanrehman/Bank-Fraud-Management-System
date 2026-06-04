@@ -3,7 +3,7 @@
   
 ## Query 1 – Row Counts
 
-| Table              | Rows |
+| Table              | Rows | 
 | ------------------ | ---: |
 | BRANCH             |   10 |
 | CUSTOMER           |   15 |
