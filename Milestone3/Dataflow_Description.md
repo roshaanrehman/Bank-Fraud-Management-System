@@ -5,7 +5,7 @@ Group Members: Roshaan Rehman & Sarah Arif
 
 Introduction
 
-The Bank Fraud Detection System (BFDS) is designed to monitor banking transactions, detect suspicious activities, manage fraud investigations, maintain audit records, and generate reports. The system follows a structured flow from customer registration to fraud detection and investigation.
+The Bank Fraud Detection System (BFDS) is designed to monitor banking transactions, detect suspicious activities, manage fraud investigations, maintain audit records, and generate reports. The system follows a structured flow from customer registration to fraud detection and investigation. 
 
 Step 1 — User Authentication
 
