@@ -5,7 +5,7 @@
 -- MySQL 8 / XAMPP phpMyAdmin compatible — zero errors
 -- Run AFTER database_ddl_fixed.sql
 -- ============================================================
-
+ 
 USE bank_fraud_db;
 
 -- ============================================================
