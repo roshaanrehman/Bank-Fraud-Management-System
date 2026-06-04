@@ -1,4 +1,4 @@
---DDL QUERIES
+--DDL QUERIES 
 -- ============================================================
 -- BANK FRAUD DETECTION SYSTEM — DDL (FIXED)
 -- University: IMSciences | Course: Database Systems Lab
