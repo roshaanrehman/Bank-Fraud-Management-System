@@ -4,4 +4,4 @@ This milestone contains:
 
 - Problem Statement
 - ERD Diagram
-- Initial Database Design
+- Relational database Schema
