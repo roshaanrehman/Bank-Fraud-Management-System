@@ -2,7 +2,7 @@
 -- ============================================================
 -- BANK FRAUD DETECTION SYSTEM — DDL (FIXED)
 -- University: IMSciences | Course: Database Systems Lab
--- Authors   : Sarah Arif & Roshaan Rehman (BSSE-A, Sem 4)
+-- Authors   : Sarah Arif & Roshaan Rehman (BSSE-A, Sem 4) 
 -- MySQL 8 / XAMPP phpMyAdmin compatible — zero errors
 -- ============================================================
 
