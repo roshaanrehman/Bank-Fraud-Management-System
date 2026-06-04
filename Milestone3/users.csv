@@ -1,0 +1,7 @@
+"User_ID","Username","Password_Hash","Full_Name","Email","Role","Is_Active","Last_Login","Login_Attempts","Locked_Until","Created_At"
+"1","admin","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","System Administrator","admin@bankfraud.pk","Admin","1",NULL,"0",NULL,"2026-06-04 16:56:19"
+"2","ali.hassan","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","Ali Hassan","ali.hassan@bankfraud.pk","Investigator","1",NULL,"0",NULL,"2026-06-04 16:56:19"
+"3","mariam.k","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","Mariam Khalid","mariam.k@bankfraud.pk","Investigator","1",NULL,"0",NULL,"2026-06-04 16:56:19"
+"4","tariq.f","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","Tariq Farooq","tariq.f@bankfraud.pk","Investigator","1",NULL,"0",NULL,"2026-06-04 16:56:19"
+"5","hina.baig","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","Hina Baig","hina.baig@bankfraud.pk","Investigator","1",NULL,"0",NULL,"2026-06-04 16:56:19"
+"6","zafar.iq","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","Zafar Iqbal","zafar.iq@bankfraud.pk","Investigator","1",NULL,"0",NULL,"2026-06-04 16:56:19"

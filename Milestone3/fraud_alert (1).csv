@@ -1,0 +1,17 @@
+"Alert_ID","Transaction_ID","Rule_ID","Customer_ID","Account_ID","Risk_Score","Alert_Type","Reason","Severity","Alert_Status","Alert_DateTime","Assigned_To","Resolved_At","Resolution_Note"
+"1","1","2","1","1","72.00","Night-Time High-Value Transaction","Transaction of PKR 25,000 at 23:47 (outside business hours)","High","Under Review","2024-01-14 23:50:00","1",NULL,NULL
+"2","2","1","2","2","95.00","Large Transaction Threshold","Transaction amount PKR 500,000 exceeds threshold of PKR 200,000","Critical","Open","2024-01-15 03:15:00","3",NULL,NULL
+"3","2","5","2","2","85.00","Suspicious / VPN Location","Transaction location flagged as suspicious: Online - Suspicious IP","High","Open","2024-01-15 03:15:00","3",NULL,NULL
+"4","4","2","6","6","68.00","Night-Time High-Value Transaction","Transaction of PKR 75,000 at 22:55 (outside business hours)","High","Under Review","2024-01-16 23:00:00","2",NULL,NULL
+"5","6","1","6","6","90.00","Large Transaction Threshold","Transaction amount PKR 300,000 exceeds threshold of PKR 200,000","Critical","Resolved","2024-01-18 02:35:00","1",NULL,NULL
+"6","6","5","6","6","78.00","Suspicious / VPN Location","Transaction location flagged as suspicious: Unknown Location","High","Resolved","2024-01-18 02:35:00","1",NULL,NULL
+"7","8","1","1","1","98.00","Large Transaction Threshold","Transaction amount PKR 450,000 exceeds threshold of PKR 200,000","Critical","Open","2024-01-20 23:59:00","4",NULL,NULL
+"8","8","2","1","1","88.00","Night-Time High-Value Transaction","Transaction of PKR 450,000 at 23:59 (outside business hours)","Critical","Open","2024-01-20 23:59:00","4",NULL,NULL
+"9","10","5","2","2","80.00","Suspicious / VPN Location","Transaction location flagged as suspicious: VPN - Masked Location","High","Under Review","2024-01-22 01:50:00","5",NULL,NULL
+"10","10","1","2","2","85.00","Large Transaction Threshold","Transaction amount PKR 220,000 exceeds threshold of PKR 200,000","High","Under Review","2024-01-22 01:50:00","5",NULL,NULL
+"11","14","2","9","9","82.00","Night-Time High-Value Transaction","Transaction of PKR 280,000 at 00:15 (outside business hours)","Critical","Open","2024-01-24 00:20:00","2",NULL,NULL
+"12","14","1","9","9","88.00","Large Transaction Threshold","Transaction amount PKR 280,000 exceeds threshold of PKR 200,000","High","Open","2024-01-24 00:20:00","2",NULL,NULL
+"13","17","5","7","7","88.00","Suspicious / VPN Location","Transaction location flagged as suspicious: VPN - Foreign IP Detected","Critical","Under Review","2024-01-25 02:25:00","3",NULL,NULL
+"14","17","1","7","7","95.00","Large Transaction Threshold","Transaction amount PKR 400,000 exceeds threshold of PKR 200,000","Critical","Under Review","2024-01-25 02:25:00","3",NULL,NULL
+"15","20","1","13","13","99.00","Large Transaction Threshold","Transaction amount PKR 750,000 exceeds threshold of PKR 200,000","Critical","Open","2024-01-27 03:05:00","1",NULL,NULL
+"16","20","5","13","13","90.00","Suspicious / VPN Location","Transaction location flagged as suspicious: Unknown - Masked Location","Critical","Open","2024-01-27 03:05:00","1",NULL,NULL

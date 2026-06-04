@@ -1,0 +1,4 @@
+"Blacklist_ID","Customer_ID","Case_ID","Reason","Date_Added","Added_By","Is_Active","Date_Removed","Removed_By","Removal_Reason","Created_At"
+"1","4","4","Fraud confirmed via Case 4. Large unauthorized online transfer through VPN. FIR filed with FIA.","2024-01-25","1","1",NULL,NULL,NULL,"2026-06-04 16:56:19"
+"2","5",NULL,"Multiple suspicious ATM withdrawals across different cities within 24 hours. Pattern indicates card cloning.","2024-02-01","1","1",NULL,NULL,NULL,"2026-06-04 16:56:19"
+"3","13",NULL,"PKR 750,000 transfer at 03:00 via VPN masked location. Account opened specifically for fraud suspected.","2024-01-28","1","1",NULL,NULL,NULL,"2026-06-04 16:56:19"

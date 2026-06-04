@@ -1,0 +1,6 @@
+"Investigator_ID","User_ID","Full_Name","Designation","Email","Phone","Department","Date_Joined","Status","Cases_Handled","Created_At"
+"1","2","Ali Hassan","Senior Fraud Analyst","ali.hassan@bankfraud.pk","03001234567","Fraud & Risk","2018-04-10","Active","3","2026-06-04 16:56:19"
+"2","3","Mariam Khalid","Fraud Investigator","mariam.k@bankfraud.pk","03219988776","Fraud & Risk","2019-07-15","Active","2","2026-06-04 16:56:19"
+"3","4","Tariq Farooq","Lead Investigator","tariq.f@bankfraud.pk","03331122334","Fraud & Risk","2017-01-20","Active","2","2026-06-04 16:56:19"
+"4","5","Hina Baig","Junior Analyst","hina.baig@bankfraud.pk","03004455667","Compliance","2022-03-01","Active","1","2026-06-04 16:56:19"
+"5","6","Zafar Iqbal","Senior Investigator","zafar.iq@bankfraud.pk","03336677889","Cyber Fraud Unit","2016-09-05","Active","1","2026-06-04 16:56:19"
