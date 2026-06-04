@@ -3,7 +3,7 @@
 Financial fraud has become a major challenge for modern banking systems due to the increasing volume
 of digital transactions. Manual monitoring of transactions is time-consuming, inefficient, and often
 unable to identify suspicious activities in real time. As a result, fraudulent transactions may go
-unnoticed,leading to financial losses, security risks, and reduced customer trust.
+unnoticed,leading to financial losses, security risks, and reduced customer trust. 
 
 The Bank Fraud Detection System (BFDS) addresses this challenge by providing a centralized platform 
 for managing customers, accounts, transactions, fraud alerts, investigations, and blacklisted individuals.
