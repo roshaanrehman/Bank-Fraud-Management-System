@@ -3,7 +3,7 @@
 **Group Members:**  Roshaan Rehman & Sarah Arif  
 **Version:** V1.1  
 
----
+--- 
 
 ## What is Normalization?
 
