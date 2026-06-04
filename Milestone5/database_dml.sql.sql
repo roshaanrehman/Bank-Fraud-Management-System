@@ -12,7 +12,7 @@ USE bank_fraud_db;
 -- SAFETY: disable FK checks and temporarily drop the
 -- trigger that blocks inactive-account transactions,
 -- so seed data with Frozen/Suspended accounts can be inserted.
--- Both are restored at the end of this file.
+-- Both are restored at the end of this file. 
 -- ============================================================
 SET FOREIGN_KEY_CHECKS = 0;
 DROP TRIGGER IF EXISTS trg_block_inactive_account_txn;
